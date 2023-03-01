@@ -67,7 +67,7 @@ export default function Grid() {
                 setBest(score);   
             }
 
-    },[score])
+    },[score,best])
   return (
         <>
         <div className={style.centerContent}>
