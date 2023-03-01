@@ -1,0 +1,27 @@
+.center td{
+    padding: 45px;
+    background-color:red;
+    cursor:pointer;;
+}
+
+.center
+{
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.centerContent
+{
+    flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+}
+.btn
+{
+    padding: 20px;
+    background-color:rgb(77, 185, 77);
+    border-style: none;
+    border-radius: 10px;
+}
